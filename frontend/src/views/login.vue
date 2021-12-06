@@ -3,7 +3,7 @@
     <div class="card">
       <div class="card-header">
         <div class="flex items-center justify-between">
-          <p class="card-title">打工人提醒您</p>
+          <p class="card-title">崽种看这里</p>
         </div>
       </div>
       <div class="card-body text-base leading-6">
@@ -11,7 +11,7 @@
         <p>建议京东账户绑定微信以保证提现能到账。</p>
         <p>由于京东异地登录限制，扫码获取cookie只有2小时有效期，因此暂时关闭扫码功能，现需手动抓取Cookie。</p>
         <p>手动抓取cookies有效期长，大越1个月，需要到期及时更新。</p>
-        <b>惊喜红包不要忘记使用。</b>
+        <p>惊喜红包不要忘记使用。</p>
       </div>
       <div class="card-footet"></div>
     </div>
